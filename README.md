@@ -7,6 +7,7 @@ NestJS template with everything you need to get started
 3. Uses [swc](https://swc.rs/) for speedy compilation
 4. Uses TypeScript with [strict mode](https://www.typescriptlang.org/tsconfig/#strict) for improved code correctness
 5. Enabled [helmet](https://github.com/helmetjs/helmet) and [cors](https://expressjs.com/en/resources/middleware/cors.html) for basic security
+6. Uses [bun](https://bun.sh/)
 
 ## Project setup
 
@@ -54,4 +55,4 @@ Check out a few resources that may come in handy when working with NestJS:
 
 ## License
 
-This is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+This is [MIT licensed](https://github.com/liliwei25/nestjs-template/blob/main/LICENSE).
