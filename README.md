@@ -1,6 +1,12 @@
 ## Description
 
-Open source NestJS authentication service
+NestJS template with everything you need to get started
+
+1. Uses [commitlint](https://github.com/conventional-changelog/commitlint) to keep commits clean and tidy
+2. Uses [eslint](https://eslint.org/), [prettier](https://prettier.io/), [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/lint-staged/lint-staged) to automatically format code
+3. Uses [swc](https://swc.rs/) for speedy compilation
+4. Uses TypeScript with [strict mode](https://www.typescriptlang.org/tsconfig/#strict) for improved code correctness
+5. Enabled [helmet](https://github.com/helmetjs/helmet) and [cors](https://expressjs.com/en/resources/middleware/cors.html) for basic security
 
 ## Project setup
 
@@ -48,4 +54,4 @@ Check out a few resources that may come in handy when working with NestJS:
 
 ## License
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+This is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
