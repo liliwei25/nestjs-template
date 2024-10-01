@@ -12,6 +12,7 @@ NestJS template with everything you need to get started
 6. Uses [bun](https://bun.sh/)
 7. Uses [zod](https://github.com/colinhacks/zod) for schema validation
 8. Uses [Docker](https://www.docker.com/) for containerization
+9. Uses [Github Actions](https://github.com/features/actions) for workflows
 
 ## Project setup
 
