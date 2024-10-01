@@ -1,3 +1,5 @@
+![main test workflow status](https://github.com/liliwei25/nestjs-template/actions/workflows/main-test.yml/badge.svg)
+
 ## Description
 
 NestJS template with everything you need to get started
