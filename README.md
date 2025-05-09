@@ -13,6 +13,7 @@ NestJS template with everything you need to get started
 7. Uses [typebox](https://github.com/sinclairzx81/typebox) for schema validation
 8. Uses [Docker](https://www.docker.com/) for containerization
 9. Uses [Github Actions](https://github.com/features/actions) for workflows
+10. Uses [Prisma](https://www.prisma.io/) for database management
 
 ## Project setup
 
