@@ -6,7 +6,7 @@ test
 *.spec.ts
 .env.sample
 .env.test
-.eslintrc.js
+eslint.config.js
 .gitignore
 .prettierignore
 .prettierrc
